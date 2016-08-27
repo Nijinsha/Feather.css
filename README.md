@@ -48,7 +48,7 @@
          Like this you can combine items where the total spaces they take is 12.
                   
                   
-####Download the example folder and try it to see expamples.
+####Download the 'example' folder and try it to see expamples.
          
          
              
