@@ -44,7 +44,7 @@
      Adding this to class to an item in a flexbox makes the item take the 1 of 12 spaces inside the flexbox.
              
 ###Combinations
-         You can combine them together to make different types of layouts
+         You can combine them together to make different types of layouts.
          Eg:
          1.You can your 2 .space6 items together in a .grid div
          2.You can use 1 .space6 and 2 .space3 items together in a .grid div
