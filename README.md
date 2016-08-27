@@ -1,5 +1,6 @@
 # Feather.css
 ### An Ultra Lightweight CSS Framework.
+![alt tag](https://raw.githubusercontent.com/Nijinsha/Feather.css/master/feather.png)
 ##### Feather is build using the most latest flex layout feature.
 
 ##How to use Feather.css
