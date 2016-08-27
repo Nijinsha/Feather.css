@@ -1,16 +1,56 @@
+
 /* Feather.css
 An Ultra Lightweight CSS Framework*/
 
 
 
 
-/* Flex Layout */
 
-.row{
-	display:flex;
-	flex-wrap: wrap;
+/*Basic Styles */
+
+
+body{
+
+	text-decoration: none;
 }
 
-.col{
-	
+}      
+a:visited {
+	text-decoration:none; ;
+}  
+li{
+	list-style: none;
+}
+
+
+
+/* Flex Layout */
+
+
+.grid{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.space12 {
+
+    flex-grow:12;
+}
+
+.space9{
+
+	flex-grow:9;
+}
+.space6{
+
+	flex-grow: 6;
+}
+
+.space3{
+
+    flex-grow: 3;
+}
+.space1{
+	flex-grow: 1;
 }
