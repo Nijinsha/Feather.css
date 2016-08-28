@@ -24,7 +24,7 @@
 
 ##Documentation
     
-###This css framework contins a 12 grid system.
+###This css framework uses a 12 grid system.
          
 ###Grid
 ####Class .grid
